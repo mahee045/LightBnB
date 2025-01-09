@@ -22,9 +22,4 @@ Before starting, ensure you have the following installed:
 
 - [Node.js](https://nodejs.org/) v14 or higher
 
-### Installation
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/mahee045/LightBnB/tree/main
-   cd LightBnB
