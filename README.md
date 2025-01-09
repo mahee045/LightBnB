@@ -1,6 +1,6 @@
 # LightBnB
 
-Lighthouse BnB is a full-stack web application that allows users to manage property listings, make reservations, and view reviews. It demonstrates database integration, server-side routing, and dynamic web functionality as part of a bootcamp project.
+Lighthouse BnB is a full-stack web application that allows users to manage property listings, make reservations, and view reviews. It demonstrates database integration, server-side routing, and dynamic web functionality.
 
 ---
 
